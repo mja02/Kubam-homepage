@@ -1,5 +1,14 @@
 html body {
     background-color: rgba(0,0,0,1.00);
-    background-color: #blue;
-
+    background-color: #fff;
+}
+.box{
+  position: relative;
+  height: 10%;
+  width: 100%;
+  left: 0%;
+  top: 300px;
+}
+.orange{
+  background-color: orange;
 }
